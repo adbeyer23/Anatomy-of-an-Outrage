@@ -1,5 +1,5 @@
 # Anatomy-of-an-Outrage
-Analyzing the Kathy Griffin/Trump story through the lens of Twitter
+Analyzing the Kathy Griffin/Trump story through the lens of Twitter.
 
 This is my final project for Metis. In this project, I analyzed how Twitter reacted to the story of Kathy Griffin holding a mask that looked like Donald Trump bloody severed head.
 
