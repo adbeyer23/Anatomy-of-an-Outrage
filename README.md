@@ -10,3 +10,5 @@ To do this, I grabbed 2.1 million tweets using Tweepy, a python Twitter API wrap
 From there I did topic modeling, looked at most retweeted links and hashtags used, and tried to label tweets based on political affiliation.
 
 This repository contains my presentation, and Jupyter  notebooks in which I got, analyzed the tweets, and did topic modeling on them. A notebook with my plots from the presentation is coming soon.
+
+Check out my blog for a write-up of this project: [blog](https://adbeyer23.github.io/)
