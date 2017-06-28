@@ -11,4 +11,4 @@ From there I did topic modeling, looked at most retweeted links and hashtags use
 
 This repository contains my presentation, and Jupyter  notebooks in which I got, analyzed the tweets, and did topic modeling on them. A notebook with my plots from the presentation is coming soon.
 
-Check out my blog for a write-up of this project: [blog](https://adbeyer23.github.io/)
+Check out my blog for a write-up of this project: [blog](https://adbeyer23.github.io/Anatomy-of-an-Outrage/)
